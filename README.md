@@ -11,9 +11,9 @@
 
 ### I have some pet-projects:
 
-- [Tests for everyone](http://codeem.ru) - site where you can solve and create amazing tests
-- [xPasswordsBot](https://t.me/xPasswordsBot) - telegram bot that will store you passwords
-- [Fox](https://github.com/lleballex/fox/tree/release) - program for learngin irregular english verbs
+- **[Tests for everyone](http://codeem.ru)** - site where you can solve and create amazing tests
+- **[xPasswordsBot](https://t.me/xPasswordsBot)** - telegram bot that will store your passwords
+- **[Fox](https://github.com/lleballex/fox/tree/release)** - program for learngin irregular english verbs
 
 ### My languages:
 
