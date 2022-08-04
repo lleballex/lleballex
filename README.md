@@ -12,7 +12,7 @@
 ## I have some pet-projects:
 
 - **[Tests for everyone](http://codeem.ru)** - site where you can solve and create amazing tests
-- **[xPasswordsBot](https://t.me/xPasswordsBot)** - telegram bot that stores your passwords
+- **[likePasswordsBot](https://t.me/likePasswordsBot)** - telegram bot that stores your passwords
 - **[likeWeatherBot](https://t.me/likeWeatherBot)** - telegram bot that gives access to the weather of any city from any country
 - **[Fox](https://github.com/lleballex/fox)** - program for learning irregular english verbs
 
