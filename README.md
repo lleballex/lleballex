@@ -31,8 +31,9 @@
 <img width="40px" align="left" title="Vue" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">
 <img width="40px" align="left" title="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
 <img width="40px" align="left" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-<img width="40px" align="left" title="Less" src="https://raw.githubusercontent.com/github/explore/main/topics/less/less.png">
-<img width="40px" title="Django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png">
+<img width="40px" align="left" title="Django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png">
+<img width="40px" align="left" title="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png">
+<img width="40px" title="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
 
 
 ### Contact me:
