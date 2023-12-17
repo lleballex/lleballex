@@ -14,7 +14,7 @@
 - **[likePasswordsBot](https://t.me/likePasswordsBot)** - telegram bot that stores your passwords
 - **[likeWeatherBot](https://t.me/likeWeatherBot)** - telegram bot that gives access to the weather of any city from any country
 - **[Fox](https://github.com/lleballex/fox)** - program for learning irregular english verbs
-- **[Arcanoid](https://github.com/lleballex/fox)** - arcanoid game with some cool addons
+- **[Arcanoid](https://github.com/lleballex/arcanoid)** - arcanoid game with some cool addons
 
 ### My languages:
 
